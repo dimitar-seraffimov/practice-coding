@@ -1,0 +1,10 @@
+I am taking detailed notes on paper for each tutorial video I watch. 
+I will add them systematically here to keep track of progress and solutions logic.
+
+05/11/2024
+01. 'Two Sum' - Leetcode 1
+02. 'Best time to buy and sell stock' - Leetcode 121
+03. 'Contains Duplicate' - Leetcode 217
+
+12/11/2024
+04. 'Product of Array Except Self' - Leetcode 238
