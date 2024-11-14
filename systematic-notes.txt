@@ -28,4 +28,13 @@ I will add them systematically here to keep track of progress and solutions logi
 
 13/11/2024
 05. 'Maximum Subarray' - Leetcode 53
+  -> using Kadane's algorithm to find the maximum sum subarray
+  -> keep track of the maximum sum and current sum
+  -> if the current sum is less than 0, reset the current sum to 0
+  -> update the maximum sum if the current sum is greater than the maximum sum
+  -> return the maximum sum
+  -> Time complexity: O(n), Space complexity: O(1)
 06. 'Maximum Product Subarray' - Leetcode 152
+
+14/11/2024
+07. 'Find Minimum in Rotated Sorted Array' - Leetcode 153
