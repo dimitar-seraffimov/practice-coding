@@ -1,0 +1,45 @@
+First, I need to set my mind to tackle problems in the most efficient manner.
+I struggle quite a lot with solving problems fast and efficiently, but it is all practice at the end of the day - I will get there!
+Going through Neetcode 75, learning from: https://youtube.com/playlist?list=PLUPSMCjQ-7ocAELVU7c5tMaFMo2bUQRF4&si=Yw9H1AusdmeslsJz
+
+
+I am taking detailed notes on paper for each tutorial video I watch. 
+I will add them systematically here to keep track of progress and solutions logic.
+
+05/11/2024
+01. 'Two Sum' - Leetcode 1
+  -> using hashmap to store the index of the elements
+  -> if the difference of target and current element is present in the hashmap, return the indices
+  -> else, add the current element to the hashmap
+  -> Time complexity: O(n), Space complexity: O(n)
+
+02. 'Best time to buy and sell stock' - Leetcode 121
+  -> pointers to keep track of the minimum price and maximum profit
+  -> if the current price is less than the minimum price, update the minimum price
+  -> else, update the maximum profit if the difference between the current price and minimum price is greater than the maximum profit
+  -> Time complexity: O(n), Space complexity: O(1)
+
+03. 'Contains Duplicate' - Leetcode 217
+  -> using a hashset to store the elements
+  -> if the element is already present in the hashset, return true
+  -> else, add the element to the hashset
+  -> Time complexity: O(1), Space complexity: O(n)
+
+12/11/2024
+04. 'Product of Array Except Self' - Leetcode 238
+  -> using prefix and postfix arrays, compute all prefix products and update directly the result array to save space 
+  -> calculate the postfix result and multiply it with the prefix result to get the final result
+  -> Time complexity: O(n), Space complexity: O(n)
+
+13/11/2024
+05. 'Maximum Subarray' - Leetcode 53
+  -> using Kadane's algorithm to find the maximum sum subarray
+  -> keep track of the maximum sum and current sum
+  -> if the current sum is less than 0, reset the current sum to 0
+  -> update the maximum sum if the current sum is greater than the maximum sum
+  -> return the maximum sum
+  -> Time complexity: O(n), Space complexity: O(1)
+06. 'Maximum Product Subarray' - Leetcode 152
+
+14/11/2024
+07. 'Find Minimum in Rotated Sorted Array' - Leetcode 153
