@@ -39,7 +39,20 @@ I will add them systematically here to keep track of progress and solutions logi
   -> update the maximum sum if the current sum is greater than the maximum sum
   -> return the maximum sum
   -> Time complexity: O(n), Space complexity: O(1)
+
 06. 'Maximum Product Subarray' - Leetcode 152
+  -> find the coniguous subarray with the largest product
+  -> keep track of the maximum product, minimum product, and result
+  -> initialise the maximum product and minimum product to equal to 1
+  -> if the current element is zero, reset the maximum product and minimum product to 1 --> this is unnecessary as they are already initialised to 1
+  -> create a temporary variable to store the maximum product
+  -> update the maximum product by choosing from (multiplication of the current element with the maximum product, and minimum product, current element)
+  -> update the minimum product by choosing from (using the temporary variable to store the maximum product, multiplication of the current element with the minimum product, current element)
+  -> update the result by choosing from (maximum product, result)
 
 14/11/2024
 07. 'Find Minimum in Rotated Sorted Array' - Leetcode 153
+
+15/11/2024
+08. 'Search in Rotated Sorted Array' - Leetcode 33
+09. 3 Sum - Leetcode 15
