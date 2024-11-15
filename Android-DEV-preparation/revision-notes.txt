@@ -1,7 +1,7 @@
 I have a week to prepare. 
 Should be enough to brush-up on the basics and practice with two small Java and Kotlin projects. 
 
-List of the topics I will focus on:
+Here is a list of the topics I will focus on:
 
 1. Java and Kotlin
   pracice Java -> create a simple Android application, revise:
