@@ -56,3 +56,6 @@ I will add them systematically here to keep track of progress and solutions logi
 15/11/2024
 08. 'Search in Rotated Sorted Array' - Leetcode 33
 09. 3 Sum - Leetcode 15
+
+16/11/2024
+10. 'Container With Most Water' - Leetcode 11
