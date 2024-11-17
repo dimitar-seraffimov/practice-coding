@@ -1,13 +1,11 @@
 I have a week to prepare. 
-Should be enough to brush-up on the basics and practice with two small Java and Kotlin projects. 
+Should be enough to brush-up on the basics and practice with two small Android applications. 
 
-Here is a list of the topics I will focus on:
+I Will focus on:
 
-1. Java and Kotlin
-  pracice Java -> create a simple Android application, revise:
+1. Java/Kotlin basics
       - OOP Principles: encapsulation, polymorphism, inheritance, abstraction
-      - exception handling, generics, streams, and collections
-  practice Kotlin -> create a more complex Android application, revise:
+  practice Kotlin -> create an Android application, revise:
       - null safety
       - extension functions
       - coroutines and asynchronous programming
@@ -22,18 +20,18 @@ Here is a list of the topics I will focus on:
   - networking: Retrofit or Volley
   - dependency Injection: Dagger or Hilt
 
-3. Reactive Programming
-  - basics of reactive streams (publisher, subscriber, flowable)
-  - RxJava or Kotlin Flow:
-      - operators like map, flatMap, filter, combineLatest
-      - threading with Schedulers
-
-4. Architectural Patterns
+3. Architectural Patterns
   - MVVM (Model-View-ViewModel)
   - clean Architecture
   - repository Pattern
   - SOLID Principles
   - dependency Injection in Architectural Patterns
+
+4. Reactive Programming
+  - basics of reactive streams (publisher, subscriber, flowable)
+  - RxJava or Kotlin Flow:
+      - operators like map, flatMap, filter, combineLatest
+      - threading with Schedulers
 
 5. Algorithms and Data Structures -> Java and Kotlin syntax, haven't used them in a while
   sort: Quick Sort, Merge Sort
