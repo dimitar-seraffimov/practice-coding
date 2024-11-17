@@ -10,6 +10,9 @@ class Knight (
     override val color: Piece.Color,
     override var position: IntOffset
 ): Piece {
+
+    override val type: Char = Type
+
     override val drawable: Int =
         if (color.isWhite)
             knight_white
@@ -24,5 +27,4 @@ class Knight (
     companion object {
         const val Type = 'N'
     }
-
 }

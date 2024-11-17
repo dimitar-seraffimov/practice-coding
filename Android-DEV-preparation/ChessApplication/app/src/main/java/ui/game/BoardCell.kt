@@ -1,4 +1,4 @@
-package ui
+package ui.game
 
 import board.Board
 import androidx.compose.foundation.Image
@@ -8,17 +8,17 @@ import androidx.compose.foundation.interaction.MutableInteractionSource
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
-import androidx.compose.material.Text
+import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.drawBehind
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import board.BoardXCoordinates
-import org.jetbrains.compose.resources.painterResource
 import pieces.Piece
 import ui.ActiveColor
 import ui.DarkColor
@@ -97,7 +97,7 @@ fun BoardCell(
                         interactionSource = remember { MutableInteractionSource() },
                         indication = null,
                     ) {
-                        board.selectPiece(it)
+                        board.selectPiece(piece = it)
                     }
                     .fillMaxSize()
                     .padding(8.dp)
@@ -113,12 +113,12 @@ fun BoardCell(
                         interactionSource = remember { MutableInteractionSource() },
                         indication = null,
                     ) {
-                        board.moveSelectedPiece(x, y)
+                        board.moveSelectedPiece(x = x, y = y)
                     }
                     .drawBehind {
                         drawCircle(
                             color = ActiveColor,
-                            radius = size.width / 6,
+                            radius = size.width / 6f,
                             center = center,
                         )
                     }

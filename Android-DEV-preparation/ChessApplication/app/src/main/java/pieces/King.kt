@@ -10,6 +10,9 @@ class King (
     override val color: Piece.Color,
     override var position: IntOffset
 ): Piece {
+
+    override val type: Char = Type
+
     override val drawable: Int =
         if (color.isWhite)
             king_white
@@ -26,4 +29,7 @@ class King (
             )
         }
 
+    companion object {
+        const val Type = 'K'
+    }
 }

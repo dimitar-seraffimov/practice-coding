@@ -10,6 +10,9 @@ class Queen (
     override val color: Piece.Color,
     override var position: IntOffset
 ): Piece {
+
+    override val type: Char = Type
+
     override val drawable: Int =
         if (color.isWhite)
             queen_white
@@ -22,4 +25,7 @@ class Queen (
             diagonalMoves()
         }
 
+    companion object {
+        const val Type = 'Q'
+    }
 }

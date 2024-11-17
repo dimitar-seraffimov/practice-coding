@@ -16,8 +16,7 @@ fun Piece.getStraightMoves(
     maxMovements: Int = 7,
     canCapture: Boolean = true,
     captureOnly: Boolean = false,
-
-    ): Set<IntOffset> {
+): Set<IntOffset> {
     return getMoves(
         pieces = pieces,
         getPosition = {
@@ -27,16 +26,19 @@ fun Piece.getStraightMoves(
                         x = position.x,
                         y = position.y + it
                     )
+
                 StraightMovement.Down ->
                     IntOffset(
                         x = position.x,
                         y = position.y - it
                     )
+
                 StraightMovement.Left ->
                     IntOffset(
                         x = position.x - it,
                         y = position.y
                     )
+
                 StraightMovement.Right ->
                     IntOffset(
                         x = position.x + it,
@@ -47,6 +49,5 @@ fun Piece.getStraightMoves(
         maxMovements = maxMovements,
         canCapture = canCapture,
         captureOnly = captureOnly,
-
-        )
+    )
 }

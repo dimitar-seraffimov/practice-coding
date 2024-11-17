@@ -15,7 +15,7 @@ fun Piece.getPieceMoves(
     return builder.build()
 }
 
-class PieceMovementBuilder (
+class PieceMovementBuilder(
     private val piece: Piece,
     private val pieces: List<Piece>,
 ) {
@@ -35,6 +35,7 @@ class PieceMovementBuilder (
             )
         }
     }
+
     fun straightMoves(
         movement: StraightMovement,
         maxMovements: Int = 7,
@@ -56,7 +57,7 @@ class PieceMovementBuilder (
         maxMovements: Int = 7,
         canCapture: Boolean = true,
         captureOnly: Boolean = false,
-    ){
+    ) {
         DiagonalMovement.entries.forEach { movement ->
             diagonalMoves(
                 movement = movement,
@@ -66,6 +67,7 @@ class PieceMovementBuilder (
             )
         }
     }
+
     fun diagonalMoves(
         movement: DiagonalMovement,
         maxMovements: Int = 7,

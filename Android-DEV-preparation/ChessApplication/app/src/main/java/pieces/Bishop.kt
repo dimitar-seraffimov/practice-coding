@@ -10,6 +10,9 @@ class Bishop (
     override val color: Piece.Color,
     override var position: IntOffset
 ): Piece {
+
+    override val type: Char = Type
+
     override val drawable: Int =
         if (color.isWhite)
             bishop_white
@@ -20,5 +23,9 @@ class Bishop (
         getPieceMoves(pieces){
             diagonalMoves()
         }
+
+    companion object {
+        const val Type = 'B'
+    }
 
 }

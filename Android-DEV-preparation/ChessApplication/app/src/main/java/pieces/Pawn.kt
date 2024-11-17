@@ -13,6 +13,8 @@ class Pawn (
     override var position: IntOffset
 ): Piece{
 
+    override val type: Char = Type
+
     override val drawable: Int =
         if (color.isWhite)
             pawn_white
@@ -44,5 +46,9 @@ class Pawn (
             )
         }
 
+    }
+
+    companion object {
+        const val Type = 'P'
     }
 }

@@ -10,6 +10,9 @@ class Rook (
     override val color: Piece.Color,
     override var position: IntOffset
 ): Piece {
+
+    override val type: Char = Type
+
     override val drawable: Int =
         if (color.isWhite)
             rook_white
@@ -21,4 +24,7 @@ class Rook (
             straightMoves()
         }
 
+    companion object {
+        const val Type = 'R'
+    }
 }
