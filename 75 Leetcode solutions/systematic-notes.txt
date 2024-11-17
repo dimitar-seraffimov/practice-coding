@@ -59,3 +59,7 @@ I will add them systematically here to keep track of progress and solutions logi
 
 16/11/2024
 10. 'Container With Most Water' - Leetcode 11
+
+17/11/2024 -> there is no point in writing notes here as only track my progress in this file
+              maybe when I start solving the problems on my own, I will add the code solutions here
+11. 'Number of 1 Bits' - Leetcode 191

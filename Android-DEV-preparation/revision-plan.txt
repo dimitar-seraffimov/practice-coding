@@ -1,7 +1,6 @@
 I have a week to prepare. 
 Should be enough to brush-up on the basics and practice with two small Android applications. 
-
-I Will focus on:
+I will focus on:
 
 1. Java/Kotlin basics
       - OOP Principles: encapsulation, polymorphism, inheritance, abstraction
@@ -20,7 +19,7 @@ I Will focus on:
   - networking: Retrofit or Volley
   - dependency Injection: Dagger or Hilt
 
-3. Architectural Patterns
+3. Architectural Patterns -> detailed notes on paper, revise from previous Calculator project 
   - MVVM (Model-View-ViewModel)
   - clean Architecture
   - repository Pattern
