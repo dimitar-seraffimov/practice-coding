@@ -63,3 +63,6 @@ I will add them systematically here to keep track of progress and solutions logi
 17/11/2024 -> there is no point in writing notes here as only track my progress in this file
               maybe when I start solving the problems on my own, I will add the code solutions here
 11. 'Number of 1 Bits' - Leetcode 191
+
+18/11/2024, notes -> need to up my numbers, ideally I will finish with the 75 problems by the end of the december
+12. 'Counting Bits' - Leetcode 338 - Dynamic Programming

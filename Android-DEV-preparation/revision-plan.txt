@@ -3,14 +3,15 @@ Should be enough to brush-up on the basics and practice with two small Android a
 I will focus on:
 
 1. Java/Kotlin basics
-      - OOP Principles: encapsulation, polymorphism, inheritance, abstraction
-  practice Kotlin -> create an Android application, revise:
-      - null safety
-      - extension functions
-      - coroutines and asynchronous programming
-      - data classes and sealed classes
+    - OOP Principles: encapsulation, polymorphism, inheritance, abstraction - DONE
+  practice Kotlin 
+    -> create an Android application, progress on a simple chess game application
+    - null safety
+    - extension functions
+    - coroutines and asynchronous programming
+    - data classes and sealed classes
 
-2. Android Fundamentals
+2. Android Fundamentals - TODO
   - activity and fragment lifecycle
   - intents (explicit and implicit)
   - data persistence: Room Database and SharedPreferences
@@ -20,22 +21,21 @@ I will focus on:
   - dependency Injection: Dagger or Hilt
 
 3. Architectural Patterns -> detailed notes on paper, revise from previous Calculator project 
-  - MVVM (Model-View-ViewModel)
-  - clean Architecture
-  - repository Pattern
-  - SOLID Principles
-  - dependency Injection in Architectural Patterns
+  - MVVM (Model-View-ViewModel) - DONE
+  - clean Architecture - DONE
+  - repository Pattern - DONE
+  - dependency Injection in Architectural Patterns - DONE
 
-4. Reactive Programming
+4. Reactive Programming -TODO
   - basics of reactive streams (publisher, subscriber, flowable)
   - RxJava or Kotlin Flow:
-      - operators like map, flatMap, filter, combineLatest
-      - threading with Schedulers
+    - operators like map, flatMap, filter, combineLatest
+    - threading with Schedulers
 
 5. Algorithms and Data Structures -> Java and Kotlin syntax, haven't used them in a while
-  sort: Quick Sort, Merge Sort
-  search: Binary Search
-  recursion: Fibonacci, Factorial
+  sort: Quick Sort, Merge Sort - DONE
+  search: Binary Search - DONE
+  recursion: Fibonacci, Factorial - DONE
 Data Structures:
-  Arrays, Strings, Linked Lists, Stacks, Queues, HashMaps
-  Trees (Binary, BST) and Graphs (DFS, BFS)
+  Arrays, Strings, Linked Lists, Stacks, Queues, HashMaps - DONE
+  Trees (Binary, BST) and Graphs (DFS, BFS) - DONE
