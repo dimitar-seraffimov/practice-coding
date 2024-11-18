@@ -8,6 +8,7 @@ For now, I have implemented the fundamentals:
 - interactive chessboard UI, with drag-and-drop functionality for piece movement
 
 Current progress:
+
 ![alt text](UI_Progress_11.18.2024.png)
 
 TODO:
