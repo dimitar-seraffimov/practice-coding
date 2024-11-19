@@ -12,12 +12,9 @@ TODO - UI design: Views, Layouts, and RecyclerView
 
 Reactive Programming
 TODO - basics of reactive streams (publisher, subscriber, flowable)
-TODO - RxJava or Kotlin Flow:
-  TODO - operators like map, flatMap, filter, combineLatest
-  TODO - threading with Schedulers
 
 Design Patterns in Object Oriented Programming Languages:
-TODO - Singleton, Factory, Builder, Observer, Strategy, Adapter, Decorator, Facade, Proxy -> revise from previous projects
+DONE - Creational Patterns, Structural Patterns, Behavioural Patterns -> revise from previous projects
 
 Java/Kotlin basics:
 DONE - OOP Principles: encapsulation, polymorphism, inheritance, abstraction
@@ -41,3 +38,26 @@ DONE - recursion: Fibonacci, Factorial
     Data Structures:
 DONE - Arrays, Strings, Linked Lists, Stacks, Queues, HashMaps
 DONE - Trees (Binary, BST) and Graphs (DFS, BFS)
+
+
+
+"References" - resources I used to revise and prepare for the interview:
+1. https://www.youtube.com/watch?v=ZgzM95QxdLQ&list=WL
+2. https://youtu.be/bxuYDT-BWaI?si=MFnpZj_XZS1PCxS2
+3. https://youtu.be/G6FY8jHiDVY?si=2bLwiKtOiR9ck2id
+4. https://youtu.be/I5c7fBgvkNY?si=yzpfW26wdFXW5inB
+5. https://youtu.be/SiBw7os-_zI?si=atu6OUEiqsYFU6U3
+6. https://youtu.be/m_MQYyJpIjg?si=qvolV8AIpfrNfxkF
+7. https://www.youtube.com/watch?v=jUy5N-3RAjo
+8. https://www.youtube.com/watch?v=0OK-kbu9Cwo
+9. https://www.youtube.com/watch?v=wy0TPi9M7VM
+10. https://www.youtube.com/watch?v=iZmDcfTtcNg
+11. https://www.youtube.com/watch?v=HwoxgUPabMk&t=15094s
+12. https://www.youtube.com/watch?v=3e5IE9m2ngo
+13. https://www.youtube.com/watch?v=BJZNsTA0z5w&list=WL&index=2&pp=gAQBiAQB
+14. https://www.youtube.com/watch?v=49Sg6qav6L4&list=WL&index=3&pp=gAQBiAQB
+16. https://www.techtarget.com/searchapparchitecture/definition/reactive-programming
+17. https://www.freecodecamp.org/news/reactive-programming-beginner-guide/
+18. https://www.baeldung.com/cs/reactive-programming
+19. https://www.youtube.com/watch?v=bxuYDT-BWaI
+20. https://www.tryexponent.com/blog/system-design-interview-guide
