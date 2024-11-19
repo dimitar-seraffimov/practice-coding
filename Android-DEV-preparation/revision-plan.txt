@@ -2,40 +2,42 @@ I have a week to prepare.
 Should be enough to brush-up on the basics and practice with two small Android applications. 
 I will focus on:
 
-1. Java/Kotlin basics
-    - OOP Principles: encapsulation, polymorphism, inheritance, abstraction - DONE
-  practice Kotlin 
-    -> create an Android application, progress on a simple chess game application
-    - null safety
-    - extension functions
-    - coroutines and asynchronous programming
-    - data classes and sealed classes
+TODO - create a Chess Android app -> simple UI, no AI, just two players
 
-2. Android Fundamentals - TODO
-  - activity and fragment lifecycle
-  - intents (explicit and implicit)
-  - data persistence: Room Database and SharedPreferences
-  - UI design: Views, Layouts, and RecyclerView
-  if there is time:
-  - networking: Retrofit or Volley
-  - dependency Injection: Dagger or Hilt
+Android Fundamentals / Android Architecture components
+TODO - activity and fragment lifecycle
+TODO - intents (explicit and implicit)
+TODO - data persistence: Room Database and SharedPreferences
+TODO - UI design: Views, Layouts, and RecyclerView
 
-3. Architectural Patterns -> detailed notes on paper, revise from previous Calculator project 
-  - MVVM (Model-View-ViewModel) - DONE
-  - clean Architecture - DONE
-  - repository Pattern - DONE
-  - dependency Injection in Architectural Patterns - DONE
+Reactive Programming
+TODO - basics of reactive streams (publisher, subscriber, flowable)
+TODO - RxJava or Kotlin Flow:
+  TODO - operators like map, flatMap, filter, combineLatest
+  TODO - threading with Schedulers
 
-4. Reactive Programming -TODO
-  - basics of reactive streams (publisher, subscriber, flowable)
-  - RxJava or Kotlin Flow:
-    - operators like map, flatMap, filter, combineLatest
-    - threading with Schedulers
+Design Patterns in Object Oriented Programming Languages:
+TODO - Singleton, Factory, Builder, Observer, Strategy, Adapter, Decorator, Facade, Proxy -> revise from previous projects
 
-5. Algorithms and Data Structures -> Java and Kotlin syntax, haven't used them in a while
-  sort: Quick Sort, Merge Sort - DONE
-  search: Binary Search - DONE
-  recursion: Fibonacci, Factorial - DONE
-Data Structures:
-  Arrays, Strings, Linked Lists, Stacks, Queues, HashMaps - DONE
-  Trees (Binary, BST) and Graphs (DFS, BFS) - DONE
+Java/Kotlin basics:
+DONE - OOP Principles: encapsulation, polymorphism, inheritance, abstraction
+DONE - covered from this YouTube video: https://www.youtube.com/watch?v=ZgzM95QxdLQ&list=WL
+DONE - declaration of variables? difference between declaration with val and const? why should we use Kotlin? how to ensure Null safety in Kotlin?
+DONE - sealed Classes in Kotlin
+DONE - MUST know components for New Android Project -> Activity, Fragment, Service, Broadcast Receiver, Content Provider, SharedPreferences
+
+Architectural Patterns:
+-> detailed notes on paper, revise from previous Calculator project 
+DONE - MVVM (Model-View-ViewModel)
+DONE - clean Architecture
+DONE - repository Pattern
+DONE - dependency Injection in Architectural Patterns
+
+Algorithms and Data Structures:
+-> Java and Kotlin syntax, haven't used them in a while
+DONE - sort: Quick Sort, Merge Sort
+DONE - search: Binary Search
+DONE - recursion: Fibonacci, Factorial
+    Data Structures:
+DONE - Arrays, Strings, Linked Lists, Stacks, Queues, HashMaps
+DONE - Trees (Binary, BST) and Graphs (DFS, BFS)
