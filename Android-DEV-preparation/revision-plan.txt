@@ -6,9 +6,9 @@ TODO - create a Chess Android app -> simple UI, no AI, just two players
 
 Android Fundamentals / Android Architecture components
 DONE - activity and fragment lifecycle
-TODO - intents (explicit and implicit)
-TODO - data persistence: Room Database and SharedPreferences
-TODO - UI design: Views, Layouts, and RecyclerView
+DONE - intents (explicit and implicit)
+DONE - data persistence: Room Database and SharedPreferences
+DONE - UI design: Views, Layouts, and RecyclerView
 
 Reactive Programming
 DONE - basics of reactive streams (publisher, subscriber, flowable)
