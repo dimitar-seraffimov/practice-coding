@@ -5,7 +5,7 @@ I will focus on:
 TODO - create a Chess Android app -> simple UI, no AI, just two players
 
 Android Fundamentals / Android Architecture components
-TODO - activity and fragment lifecycle
+DONE - activity and fragment lifecycle
 TODO - intents (explicit and implicit)
 TODO - data persistence: Room Database and SharedPreferences
 TODO - UI design: Views, Layouts, and RecyclerView
@@ -63,3 +63,6 @@ https://www.freecodecamp.org/news/reactive-programming-beginner-guide/
 https://www.baeldung.com/cs/reactive-programming
 https://www.youtube.com/watch?v=bxuYDT-BWaI
 https://www.tryexponent.com/blog/system-design-interview-guide
+
+https://odaym.notion.site/Security-36635e265a8c480483db93ca53eeb8db
+https://developer.android.com/kotlin/flow/stateflow-and-sharedflow
