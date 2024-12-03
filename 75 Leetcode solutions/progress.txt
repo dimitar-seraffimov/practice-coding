@@ -72,3 +72,6 @@ I will add them systematically here to keep track of progress and solutions logi
 
 20/11/2024
 14. 'Reverse Bits' - Leetcode 190 
+
+03/12/2024 - traveled for a week and had to focus on a coursework, need to get back on track with problem solving
+15. 'Climbing Stairs' - Leetcode 70
