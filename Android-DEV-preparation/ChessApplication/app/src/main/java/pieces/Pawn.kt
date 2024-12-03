@@ -1,8 +1,8 @@
 package pieces
 
 import androidx.compose.ui.unit.IntOffset
-import com.example.chessapplication.R.drawable.pawn_black
-import com.example.chessapplication.R.drawable.pawn_white
+import com.example.chessapp.R.drawable.pawn_black
+import com.example.chessapp.R.drawable.pawn_white
 import pieces.dsl.DiagonalMovement
 import pieces.dsl.StraightMovement
 import pieces.dsl.getPieceMoves

@@ -1,4 +1,4 @@
-package com.example.chessapplication
+package com.example.chessapp
 
 import androidx.compose.ui.unit.IntOffset
 import board.BoardXCoordinates

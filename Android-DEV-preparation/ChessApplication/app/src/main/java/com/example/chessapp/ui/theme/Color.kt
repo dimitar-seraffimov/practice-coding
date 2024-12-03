@@ -1,4 +1,4 @@
-package com.example.chessapplication.ui.theme
+package com.example.chessapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.example.chessapplication
+package com.example.chessapp
 
 import App
 import android.os.Bundle
@@ -6,7 +6,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.Surface
-import com.example.chessapplication.ui.theme.ChessApplicationTheme
+import com.example.chessapp.ui.theme.ChessApplicationTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,4 +1,4 @@
-package com.example.chessapplication.ui.theme
+package com.example.chessapp.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
