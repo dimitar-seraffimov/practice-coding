@@ -75,3 +75,6 @@ I will add them systematically here to keep track of progress and solutions logi
 
 03/12/2024 - traveled for a week and had to focus on a coursework, need to get back on track with problem solving
 15. 'Climbing Stairs' - Leetcode 70
+
+04/12/2024
+16. 'Coin Change' - Leetcode 322
