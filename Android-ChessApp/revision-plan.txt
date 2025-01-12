@@ -1,5 +1,5 @@
 I have a week to prepare. 
-Should be enough to brush-up on the basics and practice with two small Android applications. 
+Should be enough to brush-up on the basics and practice with small Android applications. 
 I will focus on:
 
 TODO - create a Chess Android app -> simple UI, no AI, just two players

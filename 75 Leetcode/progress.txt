@@ -73,8 +73,12 @@ I will add them systematically here to keep track of progress and solutions logi
 20/11/2024
 14. 'Reverse Bits' - Leetcode 190 
 
-03/12/2024 - traveled for a week and had to focus on a coursework, need to get back on track with problem solving
+03/12/2024 - traveled for a week and had to focus on a coursework
 15. 'Climbing Stairs' - Leetcode 70
 
 04/12/2024
 16. 'Coin Change' - Leetcode 322
+
+--- 12/01/2025 ---
+I got carried away during the holiday season + had some courseworks which required my attention. 
+I got a bit discouraged by the job application process, the rate of rejections... I want to continue, I want to get better.

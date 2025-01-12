@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 with open("Group.svg", "r") as file:
     soup = BeautifulSoup(file, "lxml-xml")  # 'lxml-xml' for parsing XML
 
-# find and remove all elements with a specific white fill
+# find and remove all elements with a specific fill
 elements_removed = 0
 for element in soup.find_all(attrs={"fill": "#F5645D"}):
     element.decompose()
