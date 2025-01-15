@@ -1,0 +1,61 @@
+Round One
+
+  What is the difference between a classification and a regression problem?
+
+  What is a feature in the context of machine learning?
+
+  Can you explain what overfitting is and how to avoid it?
+
+  What is the purpose of a validation set in machine learning?
+
+  What is cross-validation, and why is it important?
+
+  What are hyperparameters in machine learning models?
+
+  What is a confusion matrix, and what does it tell you?
+
+  What is a decision tree, and how does it work?
+
+  What is the purpose of regularisation in machine learning?
+
+  What is the role of activation functions in neural networks? Can you explain the differences between ReLU and softmax in terms of their applications and behavior?
+
+Round Two
+
+  How do you handle imbalanced datasets in classification problems?
+
+  Can you explain the difference between bagging and boosting?
+
+  What is transfer learning, and when would you use it?
+
+  How does the backpropagation algorithm work in training neural networks?
+
+  What are Generative Adversarial Networks (GANs), and how do they work?
+
+  What is the vanishing gradient problem, and how can it be mitigated?
+
+  Can you explain the difference between L1 and L2 regularisation?
+
+  What are support vector machines (SVMs), and how do they find the optimal hyperplane?
+
+  What is a recurrent neural network (RNN), and how does it differ from a standard neural network?
+
+  How does dropout work in neural networks, and why is it effective?
+
+  What is the purpose of a kernel in SVMs, and how does it transform the data?
+
+  How does the attention mechanism work in models like Transformers?
+
+  What are the trade-offs between different types of gradient-based optimization algorithms like SGD, Adam, and RMSprop?
+
+  How do autoencoders work, and what are their applications in machine learning?
+
+  Can you explain the concept of "curse of dimensionality" in the context of machine learning?
+
+  What is the difference between bagging and stacking in ensemble methods?
+
+  What is an adversarial example, and how can machine learning models be made robust against them?
+
+  Can you explain the difference between a convolutional layer and a fully connected layer in a neural network?
+
+  Explain the concept of cross-entropy loss in classification problems and how it is used in training neural networks.

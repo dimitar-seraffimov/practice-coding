@@ -1,0 +1,35 @@
+Round One
+
+  What is an IP address?
+
+  What is the purpose of a router in a network?
+
+  Define the term "MAC address."
+
+  How does a switch differ from a hub in networking?
+
+  Explain the difference between a public and a private IP address.
+
+  What is the role of a default gateway in a network?
+
+  Explain the OSI model and name its seven layers.
+
+  What is a VLAN, and why might you use one?
+
+  How does NAT (Network Address Translation) work?
+
+  What are the main differences between IPv4 and IPv6?
+
+Round Two
+
+  Explain the process of packet switching in networks.
+
+  When you enter google.com and you press enter what happens
+
+  What is a subnet and why are they useful?
+
+  Describe how load balancing works and some different algorithms that can be used.
+
+  What is BGP (Border Gateway Protocol) and why is it critical for the internet?
+
+  Describe the concept of port forwarding.

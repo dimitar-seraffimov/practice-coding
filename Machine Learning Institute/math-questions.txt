@@ -1,0 +1,43 @@
+Round One
+
+  Explain the concept of linear regression.
+
+  What is the derivative of a function?
+
+  What is a polynomial function? Give an example.
+
+  What is a linear function?
+
+  What is the gradient of a function, and how is it used in optimization?
+
+  Explain how matrix multiplication works.
+
+  What is the chain rule in calculus, and how is it applied when differentiating composite functions?
+
+  What is the law of large numbers in probability theory?
+
+  What is the difference between discrete and continuous probability distributions?
+
+  How do we compute the Euclidean distance between two points?
+
+Round Two
+
+  Define eigenvalues and eigenvectors, and explain their importance in linear transformations
+
+  What is a dot product of two vectors, and what does it represent geometrically?
+
+  What is Bayes' theorem, and how is it applied in probability theory?
+
+  Explain how gradient is used in optimization problems.
+
+  Explain the concept of entropy in information theory and its role in machine learning models.
+
+  What is the Central Limit Theorem, and why is it important in statistics?
+
+  How do you interpret the coefficients in a logistic regression model?
+
+  When talking about the softmax function, why do we use an exponential and why do we divide by the sum of the exponentials?
+
+  What is the difference between a convex and a non-convex function, and why is this distinction important in optimization problems?
+
+  Explain the concept of a partial derivative and how it is used in multivariable optimization.

@@ -1,0 +1,39 @@
+Round One
+
+  What is the purpose of a .gitignore file?
+
+  Explain the difference between git fetch and git pull.
+
+  What does git diff do?
+
+  What is the purpose of a pull request in GitHub?
+
+  What does git log display?
+
+  How can you undo the last commit without losing the changes?
+
+  What does git stash do, and how do you apply a stashed change?
+
+  Explain how you can resolve merge conflicts in Git.
+
+  How do you check out a specific commit in Git?
+
+  How do you compare two branches in Git?
+
+Round Two
+
+  You want to squash several commits into a single one. How do you achieve this?
+
+  Explain how you would create a Git hook to automate tasks like running tests before a commit.
+
+  You accidentally committed sensitive information (e.g., passwords) into a Git repository in multiple commits. How would you completely remove this sensitive information from the entire Git history?
+
+  How do you set up a GitHub Actions workflow?
+
+  Explain the concept of rebasing and how it differs from merging.
+
+  What is the difference between git reset and git revert?
+
+  How do you revert a file to its last committed state?
+
+  How would you recover from an accidental git rebase --hard that overwrote commits, and is there a way to retrieve the lost commits?

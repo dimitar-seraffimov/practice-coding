@@ -1,0 +1,39 @@
+Round One
+
+  What is the difference between INNER JOIN and LEFT JOIN?
+
+  Can you explain the difference between a CROSS JOIN and a FULL OUTER JOIN?
+
+  What is a primary key in a database? Why is it important?
+
+  Can you explain what a foreign key is and how it relates to referential integrity?
+
+  What is a NULL value in SQL, and how is it different from an empty string or zero?
+
+  What are the differences between UNION and UNION ALL?
+
+  What are window functions in PostgreSQL, and how do they differ from aggregate functions?
+
+  How does PostgreSQL handle transactions, and what is the significance of ACID properties?
+
+  What are Common Table Expressions (CTEs) in SQL, and when would you use them?
+
+  What is a recursive query in SQL, and can you provide an example?
+
+Round Two
+
+  What are the differences between row-level and statement-level triggers in PostgreSQL?
+
+  Can you explain the concept of MVCC (Multi-Version Concurrency Control) in PostgreSQL and its significance?
+
+  How do you handle large datasets in PostgreSQL to avoid performance bottlenecks?
+
+  What are partitioned tables in PostgreSQL, and how do they differ from regular tables?
+
+  Can you explain the EXPLAIN ANALYZE command in PostgreSQL and how it helps in query optimization?
+
+  What is the role of WAL (Write-Ahead Logging) in PostgreSQL, and how does it contribute to data integrity?
+
+  How do you create a materialised view in PostgreSQL, and what are its advantages over a regular view?
+
+  How can you optimise a SQL query for better performance?

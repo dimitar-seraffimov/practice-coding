@@ -1,0 +1,35 @@
+Round One
+
+  What is the purpose of a Dockerfile?
+
+  What is the difference between a Docker image and a Docker container?
+
+  How can you persist data in Docker containers?
+
+  What does the docker run command do?
+
+  What is the purpose of the .dockerignore file?
+
+  What command is used to inspect the logs of a running Docker container?
+
+  What is port mapping and why do we use it in Docker?
+
+  What is the difference between CMD and ENTRYPOINT in a Dockerfile?
+
+Round Two
+
+  What is a Kernel, and how does Docker interact with the Kernel?
+
+  How do namespaces and cgroups work in the context of Docker?
+
+  What are some security best practices for running Docker containers in production?
+
+  Describe the concept of Docker's OverlayFS and its role in image layering.
+
+  Can you talk about the relationship between Kubernetes and Docker?
+
+  How can you optimise a Docker image to reduce its size and build time?
+
+  How do you create a network in Docker?
+
+  What is a multi-stage build in Docker, and why is it useful?
